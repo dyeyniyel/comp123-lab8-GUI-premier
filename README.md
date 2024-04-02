@@ -30,6 +30,8 @@ lslPremier.SelectedItem.ToString();  //give the selected item
 lslPremier.SelectedItems;            //returns an array of items
 The Premier Application
 You will use a Dictionary to drive this application. The Key will be the last name of the premier (there is a method in the Premier class that generated a key) and the value will be the premier object. The images are in a folder on the p drive. The images are named also by the premier’s last name.
+
+
 ![image](https://github.com/dyeyniyel/comp123-lab8-GUI-premier/assets/158533198/a7675bc0-be1c-474b-862f-ddebe6c4b47c)
 
 You should use the file Premier.cs file. [See appendix for the logic for the Premier class]
